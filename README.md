@@ -1,11 +1,10 @@
-# 고앵이, ywbird:smiley_cat:
+# 고앵이, ywbird :smiley_cat:
 
 ## 황혼에서 포스팅하고 게임하고 코딩하는 고앵이입니다.
 
 블로그: <https://ywbird.github.io>
 
  <div>
-          <h1>ywbird</h1>
           <a href="https://github.com/ywbird" target="_blank"
             ><img
               src="https://img.shields.io/badge/-ywbird-181717?style=for-the-badge&logo=GitHub&logoColor=fff"
