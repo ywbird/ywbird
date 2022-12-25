@@ -5,9 +5,9 @@
 블로그: <https://ywbird.github.io>
 
  <div>
-          <a href="https://github.com/ywbird" target="_blank"
+          <a href="https://ywbird.kro.kr/ywbird" target="_blank"
             ><img
-              src="https://img.shields.io/badge/-ywbird-181717?style=for-the-badge&logo=GitHub&logoColor=fff"
+              src="https://img.shields.io/badge/-projects-ffe6bc?style=for-the-badge"
               alt="ywbird github"
           /></a>
           <a href="mailto:ywbird@naver.com">
