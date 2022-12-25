@@ -33,15 +33,25 @@ body {
   /* padding: 2rem; */
 }
 
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project-list-wrapper {
+  display: grid;
+  justify-content: center;
+  max-width: calc(270px * 4 + 1rem * 3);
+}
+
 .project-list {
   display: flex;
   justify-content: flex-start;
-  margin: auto;
-  max-width: calc(270px * 4 + 1rem * 3);
+  margin-inline: auto;
   flex-wrap: wrap;
 
-  /* grid-template-columns: repeat(4, minmax(270px, 2fr)); */
   gap: 1rem;
+  /* grid-template-columns: repeat(4, minmax(270px, 2fr)); */
 }
 
 .card {
@@ -110,6 +120,7 @@ a:visited {
 
 .profile .profile-picture {
   width: 200px;
+  height: 200px;
   border-radius: 50%;
   border: 3px solid white;
   padding: 3px;
