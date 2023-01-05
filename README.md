@@ -18,3 +18,18 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff)](#)
 
 [![YellowBird's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywbird&show_icons=true&theme=github_dark)](#)
+
+<details>
+<summary>aheui ywbird</summary>
+
+```
+밚밦다밚붒
+맣박밝뚜두
+토따투투뚜
+또봀뭏뭏뿌
+볽본희붆뭏
+봌뫃뻐터분
+뫃뻐뻐뻐터
+```
+
+</details>
