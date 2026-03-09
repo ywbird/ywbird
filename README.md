@@ -2,5 +2,5 @@
 
 blog: <https://meliplug.info>
 
-mail: [ywbird@naver.com](mailto:ywbird@naver.com)
+mail: `dev [at] meliplug [dot] info`
 
