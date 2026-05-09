@@ -1,6 +1,5 @@
 # doi, ywbird
 
-blog: <https://meliplug.info>
-
-mail: `dev [at] meliplug [dot] info`
+blog: ~~<https://meliplug.info>(down)~~ <https://ywbird.github.io/meliplug/>(fallback)
+mail: `ywbird@naver.com`
 
