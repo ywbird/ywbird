@@ -1,23 +1,39 @@
 {
   "title": "about - rawplug",
   "width": 800,
-  "height": 703,
+  "height": 772,
   "links": [
+    {
+      "href": "https://meliplug.info",
+      "label": "[meliplug](https://meliplug.info)",
+      "left": 440,
+      "top": 238,
+      "right": 786,
+      "bottom": 262
+    },
+    {
+      "href": "https://raw.meliplug.info",
+      "label": "[rawplug](https://raw.meliplug.info)",
+      "left": 90,
+      "top": 282,
+      "right": 463,
+      "bottom": 306
+    },
     {
       "href": "https://meliplug.info/ywbird.asc",
       "label": "[https://meliplug.info/ywbird.asc](https://meliplug.info/...)",
       "left": 66,
-      "top": 522,
-      "right": 756,
-      "bottom": 546
+      "top": 591,
+      "right": 740,
+      "bottom": 615
     },
     {
       "href": "https://raw.meliplug.info/assets/pfp-bg.webp",
       "label": "[pfp image: pfp-bg.webp]",
       "left": 6,
-      "top": 610,
+      "top": 679,
       "right": 299,
-      "bottom": 634
+      "bottom": 703
     }
   ]
 }
