@@ -68,6 +68,9 @@ try {
 
 	if (hit) {
 		location.replace(hit.href)
+	} else if (match && history.length > 1) {
+		// ismap click on a blank area: go back to the page showing the image.
+		history.back()
 	} else {
 		overlay(data)
 	}
