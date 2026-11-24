@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="color-scheme" content="dark">
+		<title>image site</title>
+		<style>
+			* { box-sizing: border-box; }
+			html, body { margin: 0; }
+			body {
+				min-height: 100dvh;
+				display: flex;
+				padding: 24px;
+				background: #141414;
+			}
+			.viewer {
+				position: relative;
+				margin: auto;
+				max-width: 100%;
+				line-height: 0;
+			}
+			.viewer img {
+				display: block;
+				max-width: 100%;
+				height: auto;
+			}
+			.viewer svg {
+				position: absolute;
+				inset: 0;
+				width: 100%;
+				height: 100%;
+			}
+			.viewer svg a { cursor: pointer; }
+			.viewer svg a rect {
+				fill: transparent;
+				pointer-events: all;
+			}
+			.viewer svg a:focus { outline: none; }
+			.viewer svg a:focus rect,
+			.viewer svg a:hover rect {
+				stroke: #ff5a4f;
+				stroke-width: 2;
+				vector-effect: non-scaling-stroke;
+			}
+		</style>
+	</head>
+	<body>
+		<main class="viewer" id="viewer">
+			<img src="image.png" alt="image site">
+		</main>
+		<script type="module" src="link.js"></script>
+	</body>
+</html>

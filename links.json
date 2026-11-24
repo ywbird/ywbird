@@ -1,0 +1,63 @@
+{
+  "title": "about - rawplug",
+  "width": 800,
+  "height": 1009,
+  "links": [
+    {
+      "href": "https://raw.meliplug.info/",
+      "label": "index",
+      "left": 6,
+      "top": 100,
+      "right": 70,
+      "bottom": 124
+    },
+    {
+      "href": "https://raw.meliplug.info/about",
+      "label": "about",
+      "left": 102,
+      "top": 100,
+      "right": 167,
+      "bottom": 124
+    },
+    {
+      "href": "https://raw.meliplug.info/posts",
+      "label": "posts",
+      "left": 199,
+      "top": 100,
+      "right": 263,
+      "bottom": 124
+    },
+    {
+      "href": "https://meliplug.info/ywbird.asc",
+      "label": "[https://meliplug.info/ywbird.asc](https://meliplug.info/...)",
+      "left": 66,
+      "top": 661,
+      "right": 756,
+      "bottom": 685
+    },
+    {
+      "href": "https://raw.meliplug.info/assets/pfp-bg.webp",
+      "label": "[pfp image: pfp-bg.webp]",
+      "left": 6,
+      "top": 749,
+      "right": 299,
+      "bottom": 773
+    },
+    {
+      "href": "https://raw.meliplug.info/about/#contact:~:text=contact",
+      "label": "contact",
+      "left": 151,
+      "top": 869,
+      "right": 239,
+      "bottom": 893
+    },
+    {
+      "href": "http://meliplug.info/",
+      "label": "ywbird",
+      "left": 126,
+      "top": 957,
+      "right": 203,
+      "bottom": 981
+    }
+  ]
+}
